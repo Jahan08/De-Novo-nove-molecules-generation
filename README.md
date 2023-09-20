@@ -1,1 +1,1 @@
-# De-Novo-nove-molecules-generation
+# De-Novo-novel-molecules-generation
